@@ -3,10 +3,11 @@
 
 Aqui iré colocando ejemplos de codigos de los temas tratados en clase. Intentaremos utilizar esta pagina como otra via de comunicacion para la materia. 
 
-##Consultas
+## Consultas
 Pueden utilizar el area de Issues para publicar mensajes con consultas o comentarios (deben registrarse en GitHub para ello).
 
-##Ejemplos en Jupyter
+## Ejemplos en Jupyter
+
 Asimismo, estoy preparando notebooks de jupyter en C/C++ para que puedan ejecutar de manera interactiva los ejemplos y hacer pruebas online. Pueden acceder mediante este enlace de [MyBinder](https://mybinder.org/v2/gh/lunativ/INFOII.git/master) 
 Esta pagina carga un servidor temporal de Jupyter, demora un buen rato en iniciar y luego abre una ventana con un listado de carpetas y archivos que pueden navegar, abrir o descargar. 
 En la carpeta CPP, abren los archivos de extension ypynb haciendo doble click sobre ellos y se abre una nueva ventana del navegador con el notebook de jupyter.  
