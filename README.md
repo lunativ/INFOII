@@ -8,7 +8,7 @@ Pueden utilizar el area de Issues para publicar mensajes con consultas o comenta
 
 ## Ejemplos en Jupyter
 
-Asimismo, estoy preparando notebooks de jupyter en C/C++ para que puedan ejecutar de manera interactiva los ejemplos y hacer pruebas online. Pueden acceder mediante este enlace de [MyBinder](https://mybinder.org/v2/gh/lunativ/INFOII.git/master) 
+Asimismo, estoy preparando notebooks de jupyter en C/C++ para que puedan ejecutar de manera interactiva los ejemplos y hacer pruebas online. Pueden acceder mediante este enlace de [MyBinder](https://mybinder.org/v2/gh/lunativ/INFOII.git/master?urlpath=lab) 
 Esta pagina carga un servidor temporal de Jupyter, demora un buen rato en iniciar y luego abre una ventana con un listado de carpetas y archivos que pueden navegar, abrir o descargar. 
 En la carpeta CPP, abren los archivos de extension ypynb haciendo doble click sobre ellos y se abre una nueva ventana del navegador con el notebook de jupyter.  
 Las celdas con codigo se pueden ejecutar haciendo click en el boton Run (triangulo negro) que va a ejecutar celda por celda. 
