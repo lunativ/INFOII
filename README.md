@@ -20,4 +20,8 @@ En esta herramienta el codigo C/C++ se va a ejecutar por partes dividido en celd
 INFOII/CPP/Ejemplo constructor de copia.ipynb
 ```
 
+##Codigos compartidos
+En la siguiente carpeta de drive pueden ir subiendo codigos de ejercicios resueltos para compartirlos y consultar:
+[Carpeta compartida](https://drive.google.com/drive/folders/19ifkgw_VMi0guyQRQCCpGU3y-eASX8Xg?usp=sharing)
+
 Por cualquier consulta escribir a lunativ@gmail.com
