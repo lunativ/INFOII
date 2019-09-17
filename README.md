@@ -14,6 +14,9 @@ Este servidor virtual les permite acceder a una computadora linux a distancia, t
 
 En la carpeta CPP hay archivos de Jupyter (ypynb) y codigos C/C++. Pueden abrir los archivos de extension ypynb haciendo doble click sobre ellos y se abre una nueva ventana del navegador con el notebook de jupyter. Las celdas con codigo se pueden ejecutar haciendo click en el boton Run (triangulo negro) que va a ejecutar celda por celda. En esta herramienta el codigo C/C++ se va a ejecutar por partes dividido en celdas en lugar de ejecutarse un archivo .cpp completo.
 
+Tambien pueden instalar jupyter lab de manera local en su PC instalando [Anaconda](https://www.anaconda.com/distribution/) y [Xeus Cling](https://github.com/QuantStack/xeus-cling) de preferencia en Linux. Si bien Anaconda es un entorno de desarrollo para Python, Xeus Cling permite utilizarlo con C/C++, aunque en windows tiene algunos problemas de instalacion.
+
+
 
 ### Ejemplos cargados:
 ```
