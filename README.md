@@ -22,6 +22,8 @@ Tambien pueden instalar jupyter lab de manera local en su PC instalando [Anacond
 ```
 INFOII/CPP/Ejemplo constructor de copia.ipynb
 INFOII/CPP/Puerto Serie: ejemplos de codigo para lectura y escritura puerto serie en windows y linux
+INFOII/CPP/Clase Complex: ejemplo de una clase para manejar numeros complejos
+INFOII/CPP/Clase contador: ejemplos de clases para implementar un contador que permita medir tiempos de ejecucion de un programa.
 ```
 
 ## Codigos compartidos
