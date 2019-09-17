@@ -8,7 +8,7 @@ Pueden utilizar el área de Issues para publicar mensajes con consultas o coment
 
 ## Ejemplos en Jupyter Lab
 
-Asimismo, estoy preparando notebooks de jupyter en C/C++ para que puedan ejecutar de manera interactiva los ejemplos y hacer pruebas online. Pueden acceder mediante este enlace de [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lunativ/INFOII.git/master?urlpath=lab) 
+Asimismo, estoy preparando notebooks de jupyter en C/C++ para que puedan ejecutar de manera interactiva los ejemplos y hacer pruebas online. Pueden acceder mediante este enlace de Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lunativ/INFOII.git/master?urlpath=lab) 
 Esta pagina carga un servidor temporal de Jupyter Lab, demora un buen rato en iniciar y luego abre una ventana con un listado de carpetas y archivos que pueden navegar, abrir o descargar. 
 Este servidor virtual les permite acceder a una computadora linux a distancia, tienen acceso al sistema de archivos, abrir terminales linux para compilar con gcc, g++, ejecutar programas, etc. 
 
