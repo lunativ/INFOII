@@ -26,7 +26,7 @@ INFOII/CPP/Clase Complex: ejemplo de una clase para manejar numeros complejos
 INFOII/CPP/Clase contador: ejemplos de clases para implementar un contador que permita medir tiempos de ejecucion de un programa.
 ```
 
-## Codigos compartidos
+## Carpeta para compartir archivos
 
 En la siguiente carpeta compartida pueden ir subiendo codigos de ejercicios resueltos para compartirlos y consultar:
 [Carpeta compartida](https://drive.google.com/drive/folders/19ifkgw_VMi0guyQRQCCpGU3y-eASX8Xg?usp=sharing)
