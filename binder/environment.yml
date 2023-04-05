@@ -4,6 +4,4 @@ channels:
 dependencies:
   - ipywidgets
   - notebook
-  - e-antic
-  - pyeantic
   - xeus-cling
