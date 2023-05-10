@@ -25,14 +25,53 @@
 
 3) Crear una función que determine la longitud de una cadena de caracteres (mismo funcionamiento que la funcion strlen de string.h)
 
-5) Escribir una función que reciba como argumento un arreglo de caracteres y lo devuelva invertido con la interfaz:
+4) Escribir una función que reciba como argumento un arreglo de caracteres y lo devuelva invertido con la interfaz:
 ```
 void string_reverse(char  * c);
 ```
 
-6) Escribir una función que reciba una cadena de caracteres s y un arreglo de caracteres con espacio suficiente t, y copie la cadena en el arreglo, terminando la cadena con el caracter ’\0’ (funcion strcpy() de la biblioteca ): void strcpy(char *t, const char *s);
+5) Escribir una función que reciba una cadena de caracteres s y un arreglo de caracteres con espacio suficiente t, y copie la cadena en el arreglo, terminando la cadena con el caracter ’\0’ (funcion strcpy() de la biblioteca ): void strcpy(char *t, const char *s);
 
-7) Ejecutar el siguiente codigo:
+6) Crear una función que concatena dos cadenas (cadena 1 y cadena 2) dejando el resultado de dicha operación sobre la primera (cadena 1). 
+
+7) Escribir el cuerpo de la función `float2str` del siguiente programa:
+
+     ```c
+     #include <stdio.h>
+     #include <stdlib.h>
+     #include <math.h>
+     
+     #define LONGITUD 10
+     
+     void float2str(float , char * );
+     
+     int main(void)
+     {
+         float val;
+         char cad[LONGITUD];
+     
+         val = 3.14;
+         float2str(val, cad);
+         printf("%s\n", cad);
+     
+         val = 1.75;
+         float2str(val, cad);
+         printf("%s\n", cad);
+     
+         return 0;
+     }
+     
+     void float2str(float val, char *cad)
+     {
+         /* Completar */
+     }
+     ```
+
+     La función `float2str` convierte la variable de punto flotante (`float`) `val` a una cadena de caracteres `cad`. El valor a convertir es siempre positivo de `0.00` hasta `9.99`. La implementación de la función no debe hacer uso de las funciones de biblioteca de caracteres y cadenas. (Ejercicio del profe Perez Paina)
+
+
+
+8) Ejecutar el siguiente codigo:
  - Analizar el ambito de las variables utilizadas
  - Evaluar los cambios en performance (tiempo de ejecucion y consumo de memoria segun los tipos de variables a utilizar)
 ```
@@ -75,3 +114,9 @@ int main(int argc, char *argv[])
    return 0;
 }
 ```
+
+9) Cargar en un vector de cadenas de caracteres un listado de los nombres de hasta 10 alumnos, ordenarlos alfabéticamente y mostrarlos en pantalla.
+10) Cargar los datos de nombre y 3 notas de hasta 10 alumnos. Mostrar en pantalla el listado de nombres ordenado alfabéticamente junto a la nota promedio de cada alumno.
+11) Cargar los mismos datos anteriores utilizando una estructura adecuada para almacenar los datos.
+
+Referencia sobre metodos de ordenamiento: https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C/Algoritmos_y_Estructuras_de_Datos
