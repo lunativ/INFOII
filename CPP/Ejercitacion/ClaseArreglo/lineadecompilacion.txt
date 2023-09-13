@@ -1,0 +1,1 @@
+ g++ Clase_arreglo.cpp Arreglo.cpp -o arreglo
